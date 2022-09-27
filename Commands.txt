@@ -1,0 +1,2 @@
+Command for compiling 	: javac HopfieldNetwork.java
+Command for running		: java HopfieldNetwork inputpatternfile errorinputfiles
